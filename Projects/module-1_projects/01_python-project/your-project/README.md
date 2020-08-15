@@ -33,7 +33,7 @@ I chose this project thi project to understand how basic encryption work. I coul
     
 ## Rules
     
-<img src="https://www.ssl2buy.com/wiki/wp-content/uploads/2015/12/Symmetric-Encryption.png" width="100"/>
+<img src="https://www.ssl2buy.com/wiki/wp-content/uploads/2015/12/Symmetric-Encryption.png" width="500"/>
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
