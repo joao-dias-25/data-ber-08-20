@@ -57,4 +57,3 @@ from olist.sellers
 group by seller_state
 order by n_cities desc
 limit 3;
-

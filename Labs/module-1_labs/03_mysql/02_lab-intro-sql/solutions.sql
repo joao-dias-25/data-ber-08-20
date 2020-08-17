@@ -48,6 +48,9 @@ select *,
 from olist.order_reviews
 limit 10;
 
+
+
+
 /*9 */
 select review_score, count(*) as qt
 from olist.order_reviews
