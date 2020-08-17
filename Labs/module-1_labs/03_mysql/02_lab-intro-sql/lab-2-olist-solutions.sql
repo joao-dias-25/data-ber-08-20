@@ -50,6 +50,7 @@ limit 1;
 select max(payment_value)
 from olist.order_payments;
 
+
 /* 9 */
 select seller_state, count(distinct seller_city) as n_cities
 from olist.sellers
