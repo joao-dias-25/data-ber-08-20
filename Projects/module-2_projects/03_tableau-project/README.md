@@ -4,7 +4,7 @@
 
 ## Overview
 
-The goal of this project is for you to practice what you have learned in the Business Intelligence chapter of this program. For this project, you will choose a data set, explore the data using Tableau, and put together a Story for presentation showing the insights you have derived from the data. You should demonstrate your proficiency using Tableau and the concepts you have learned throughout the chapter. The workbook should be saved to Tableau Public and a link to the workbook should be provided.
+The goal of this project is undestand the type of UFO sightings and if there any relation between dates and shapes on diferent locations.
 
 **You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. Show us what you've got!
 
@@ -39,26 +39,6 @@ The following deliverables should be pushed to your Github repo for this chapter
 * **Commit early, commit often**, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
 * **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
 
-## Useful Resources
+## Resources
 
-* [Tableau Getting Started Tutorial](https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html)
-* [Tableau Training Videos](https://www.tableau.com/learn/training)
-* [Tableau Learning Library](https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-next.html)
-
-## Project Feedback + Evaluation
-
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
-
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
-
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
-
-* __Total__: Your instructors will give you a total score on your project between:
-
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectactions, good job!
-    2|Exceeds expectations, you wonderful creature, you!
-
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
+* [Kaggle data source](https://www.kaggle.com/NUFORC/ufo-sightings)
